@@ -6,3 +6,7 @@
 - Start `yarn run start`
 - Deploy to Firebase: `firebase deploy`
 - Get project tree: `tree . -I node_modules`
+
+- Register on google Firebase DB [FREE]
+- cp .env.local.example .env.local
+- Setup env for FBDB connect
